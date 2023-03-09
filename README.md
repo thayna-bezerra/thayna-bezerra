@@ -12,7 +12,7 @@ Always open to collaborate on innovative projects and ideas. I like to explore n
 
 <img src="https://github.com/thayna-bezerra/thayna-bezerra/blob/main/cat2.gif" width="32" />&nbsp;&nbsp;&nbsp;I'm currently working with **C#** and **Unity**. <br>
 
-<img src="https://github.com/thayna-bezerra/thayna-bezerra/blob/main/Developer.gif" width="32" />&nbsp;&nbsp;&nbsp;Information Systems Student 2/8 <br>
+<img src="https://github.com/thayna-bezerra/thayna-bezerra/blob/main/Developer.gif" width="32" />&nbsp;&nbsp;&nbsp;Information Systems Student 3/8 <br>
 
 <img src="https://github.com/thayna-bezerra/thayna-bezerra/blob/main/cat.gif" width="32" />&nbsp;&nbsp;&nbsp;Ask me about anything here! I'm happy to help. <br>
 
