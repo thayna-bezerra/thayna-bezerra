@@ -1,18 +1,18 @@
 <h1 align="left">Heyy! I'm Thayna <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"></h1>
 
-[![Thayna Bezerra-LinkedIn](https://img.shields.io/badge/-thaynabezerra-white?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/thayna-bezerra-a44a23181/)](https://www.linkedin.com/in/thayna-bezerra-a44a23181/)   [![GitHub Thayna](https://img.shields.io/github/followers/thayna-bezerra?label=follow&style=social)](https://github.com/thayna-bezerra)   [![Instagram Thayna](https://img.shields.io/badge/-th.rummer-white?style=flat-square&logo=Instagram&logoColor=black)](https://www.instagram.com/th.rummer/)   [![Whatsapp Thayna](https://img.shields.io/badge/-WhatsApp-white?style=flat-square&logo=whatsapp&logoColor=black)](https://api.whatsapp.com/send?phone=5599984816915)   [![itch.io Thayna](https://img.shields.io/badge/Itch.io-white?style=flat-square&logo=itchdotio&logoColor=black)](https://th-rummer.itch.io) 
+[![Thayna Bezerra-LinkedIn](https://img.shields.io/badge/-thaynabezerra-white?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/thayna-bezerra-a44a23181/)](https://www.linkedin.com/in/thayna-bezerra-a44a23181/)   [![GitHub Thayna](https://img.shields.io/github/followers/thayna-bezerra?label=follow&style=social)](https://github.com/thayna-bezerra)   [![Instagram Thayna](https://img.shields.io/badge/-th.rummer-white?style=flat-square&logo=Instagram&logoColor=black)](https://www.instagram.com/th.rummer/)  [![itch.io Thayna](https://img.shields.io/badge/Itch.io-white?style=flat-square&logo=itchdotio&logoColor=black)](https://th-rummer.itch.io) 
 
 
 <h3 align="left"><img src="https://github.com/thayna-bezerra/thayna-bezerra/blob/main/cute.gif" width="50"> A little about me... </h3>
 
-I'm 17 years old, Game Development Learning Enthusiast from Brazil.
+I'm 18 years old, Game Development Learning Enthusiast from Brazil.
 Always open to collaborate on innovative projects and ideas. I like to explore new things and learn about new technologies and I love it when I can finally solve a difficult problem.
 	Feel free to connect with me.
 
 
 <img src="https://github.com/thayna-bezerra/thayna-bezerra/blob/main/cat2.gif" width="32" />&nbsp;&nbsp;&nbsp;I'm currently working with **C#** and **Unity**. <br>
 
-<img src="https://github.com/thayna-bezerra/thayna-bezerra/blob/main/Developer.gif" width="32" />&nbsp;&nbsp;&nbsp;Information Systems Student 3/8 <br>
+<img src="https://github.com/thayna-bezerra/thayna-bezerra/blob/main/Developer.gif" width="32" />&nbsp;&nbsp;&nbsp;Information Systems Student 4/8 <br>
 
 <img src="https://github.com/thayna-bezerra/thayna-bezerra/blob/main/cat.gif" width="32" />&nbsp;&nbsp;&nbsp;Ask me about anything here! I'm happy to help. <br>
 
